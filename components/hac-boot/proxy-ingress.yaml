@@ -28,4 +28,4 @@ spec:
         path: /wss/k8s
         pathType: Prefix
   tls:
-  - {}
+    - {}

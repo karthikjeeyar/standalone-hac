@@ -1,7 +1,7 @@
 {
   "auths": {
     "quay.io": {
-      "auth": "GET THIS FROM QUAY AS A registry auth format",
+      "auth": "c3RvbmVzb3VwdWljbHVzdGVyK3N0b25lc291cHVpX3JvYm90OlRTSTlNTTdBU0dTV0VOMjRYRUZLM0gzSk0zOUxJMk5aWE9OQlFBVEU2Rk1GNFMxM0kwUERDOEtEQ01RTDg1Tlg=",
       "email": ""
     }
   }
