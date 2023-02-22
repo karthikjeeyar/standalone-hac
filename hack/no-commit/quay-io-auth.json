@@ -1,8 +1,0 @@
-{
-  "auths": {
-    "quay.io": {
-      "auth": "GET THIS FROM QUAY AS A registry auth format",
-      "email": ""
-    }
-  }
-}
