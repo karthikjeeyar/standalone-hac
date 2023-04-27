@@ -6,4 +6,4 @@ spec:
 # Use hack/update-sso.sh to compute this for dev-sso auth domain 
   sso: "https://keycloak-dev-sso.apps.hac-dev.clusters.stonesoupengineering.com/auth/" 
   ingressClass: openshift-default
-  hostname: apps.hac-dev.clusters.stonesoupengineering.com
+  hostname: hac.apps.hac-dev.clusters.stonesoupengineering.com
