@@ -10,7 +10,7 @@ spec:
   source:
     path: argo-cd-apps/overlays/crc
     repoURL: https://github.com/karthikjeeyar/standalone-hac.git
-    targetRevision: stonesoup-ui
+    targetRevision: preview-stonesoup-ui
   destination:
     namespace: openshift-gitops
     server: https://kubernetes.default.svc
