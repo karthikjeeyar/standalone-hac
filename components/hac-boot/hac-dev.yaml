@@ -12,5 +12,5 @@ spec:
   frontend:
     paths:
       - /api/plugins/hac-dev
-  image: quay.io/cloudservices/hac-dev-frontend:pr-685-63dae53
+  image: quay.io/cloudservices/hac-dev-frontend:pr-685-15a86e3
   title: hac-dev
