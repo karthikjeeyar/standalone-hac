@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: openshift-default
   rules:
-    - host: hac.apps.jsztuka.clusters.stonesoupengineering.com
+    - host: hac.apps.democluster.lab.psi.pnq2.redhat.com
       http:
         paths:
           - backend:
